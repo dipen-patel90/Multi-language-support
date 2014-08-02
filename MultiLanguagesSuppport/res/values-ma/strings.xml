@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Marathi String XML -->
+    <string name="app_name">MultiLanguagesSuppport</string>
+    <string name="hello_world">हॅलो जग! पर्याय मेन्यू पासून भिन्न भाषा निवडा</string>
+    <string name="dafault_language_message">आपल्या मुलभूत भाषा मराठी आहे</string>
+
+    <!-- Option menu -->
+    <string name="english">इंग्रजी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="marathi">मराठी</string>
+
+</resources>

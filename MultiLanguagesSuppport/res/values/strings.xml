@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Default String XML -->
+    <string name="app_name">MultiLanguagesSuppport</string>
+    <string name="hello_world">Hello world! Please select different language from option menu</string>
+	<string name="dafault_language_message">Your default language is ENGLISH</string>
+	
+    <!-- Option menu -->
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="marathi">Marathi</string>
+
+</resources>

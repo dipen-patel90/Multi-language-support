@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Hindi String XML -->
+    <string name="app_name">MultiLanguagesSuppport</string>
+    <string name="hello_world">हैलो दुनिया! विकल्प मेनू से अलग भाषा का चयन करें</string>
+	<string name="dafault_language_message">आपका डिफ़ॉल्ट भाषा हिन्दी है</string>
+
+    <!-- Option menu -->
+    <string name="english">अंग्रेजी</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="marathi">मराठी</string>
+
+</resources>
